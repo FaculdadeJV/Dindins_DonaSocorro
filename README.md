@@ -16,13 +16,13 @@ Landing page desenvolvida para a **Dindins Dona Socorro**, uma empresa tradicion
 ### Visão geral da página inicial
 ![Página inicial](assets/screenshots/inicio.png)
 
-### Sidebar
+### História
 ![Historia](assets/screenshots/historia.png)
 
-### Grupos
+### Sabores
 ![Sabores](assets/screenshots/sabores.png)
 
-### Chaveamento
+### Formulário de Encomenda
 ![Formulario](assets/screenshots/formulario.png)
 
 ---
